@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/User/Desktop/git_tutorial/git-how-to-1/git_tutorial/work/hello
